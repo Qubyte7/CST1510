@@ -11,7 +11,7 @@ percent = (first*100)/second     #
 
 # =================================================================== OUTPUT
 # 3. Print the report.
-
+""" Here we are exploring formating output"""
 
 print("=" * 34)
 print(f"  RECORD CHECK  -  {label}")
