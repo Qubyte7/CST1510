@@ -1,0 +1,7 @@
+label,value,limit,percent,over
+R-001,87,100,87.0,False
+R-002,120,100,120.0,True
+R-003,45,100,45.0,False
+R-004,93,100,93.0,False
+R-005,101,100,101.0,True
+R-006,60,100,60.0,False
